@@ -1,5 +1,3 @@
-const uniqid = require('lodash.uniqueid')
-
 module.exports = async (fastify) => {
     fastify.post(
         '/answer', {}, async (request, reply) => {
