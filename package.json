@@ -14,6 +14,6 @@
     "lodash.uniqueid": "^4.0.1"
   },
   "devDependencies": {
-    "mocha": "^6.1.4"
+    "mocha": "^10.2.0"
   }
 }
